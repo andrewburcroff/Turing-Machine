@@ -1,0 +1,5 @@
+env/*
+docs/*
+.idea/*
+machine/__pycache__/*
+*.zip
